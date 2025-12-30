@@ -34,11 +34,13 @@ Tints:
 Shades: 
 #cf711f
 #45260a
-Greys: 
+Greys:
+#888
+#767676 (lightest gray allowed on #fff background)
+#6f6f6f (lightest gray allowed on #fdf2e9 background)
 #555 
 #333 
-#888 
-#6f6f6f (lightest gray allowed on #fdf2e9 background)
+
 Accents:
 
 
@@ -137,6 +139,7 @@ body {
   margin-bottom: 1.6rem;
   letter-spacing: 0.75px;
 }
+
 .heading-secondary {
   font-size: 4.4rem;
   line-height: 1.2;
