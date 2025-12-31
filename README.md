@@ -1,4 +1,3 @@
-```markdown
 # 🍽️ Omnifood — AI-Powered Food Subscription Website
 
 Omnifood is a **fictional food subscription brand** built as a **pure HTML & CSS project**.  
@@ -27,16 +26,6 @@ Users can:
 
 Omnifood partners with local restaurants and cooking partners to **prepare and deliver meals** directly to users.  
 All meals are offered through a **monthly subscription**, with flexible options for one or two meals per day.
-
----
-
-## 🎨 Branding
-
-- **Headline:**  
-  _A healthy meal delivered to your door, every single day_
-
-- **Brand Color:**  
-  `#e67e22`
 
 ---
 
@@ -155,74 +144,6 @@ A responsive gallery showcasing **12 provided food and lifestyle images**.
 
 ---
 
-### 💬 Customer Testimonials
-
-> “Inexpensive, healthy and great-tasting meals — truly magical.”  
-> — Dave Bryson
-
-> “The AI chooses the right meals every time.”  
-> — Ben Hadley
-
-> “A lifesaver for busy founders.”  
-> — Steve Miller
-
-> “Perfect for the whole family — organic and plastic-free.”  
-> — Hannah Smith
-
----
-
-### 🏢 Featured In
-
-Logos of featured publications displayed in a dedicated section.
-
----
-
-### 📍 Contact Information
-
-- **Address:** 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-- **Phone:** 415-201-6370
-- **Email:** hello@omnifood.com
-
-Social links (placeholders):
-
-- Instagram
-- Facebook
-- Twitter
-
----
-
-### 🔗 Footer Links (Placeholders)
-
-- Create account
-- Sign in
-- iOS app
-- Android app
-- About Omnifood
-- For Business
-- Cooking partners
-- Careers
-- Recipe directory
-- Help center
-- Privacy & terms
-
----
-
-## 🧱 Website Sections
-
-The site is structured into the following sections:
-
-- Navigation + Logo
-- Hero Section
-- Featured In
-- How It Works
-- Meals & Diet List
-- Testimonials & Gallery
-- Pricing & Features
-- Call to Action (CTA)
-- Footer
-
----
-
 ## 🛠️ Built With
 
 - **HTML5** (semantic markup)
@@ -241,6 +162,3 @@ The site is structured into the following sections:
 📧 [tonyeonuoha@gmail.com](mailto:tonyeonuoha@gmail.com)
 
 ---
-
-> 📌 _This project is for educational and portfolio purposes only._
-```
