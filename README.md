@@ -6,6 +6,14 @@ The goal of this project is to design and structure a modern, responsive marketi
 
 ---
 
+### Screenshot
+
+![Screenshot](./omnifood-project.png)
+
+### Links
+
+- Live Site URL: [Vercel](https://omnifood-project-five.vercel.app)
+
 ## 📌 About Omnifood
 
 Omnifood is a technology-first company focused on improving consumer well-being through a healthy diet.  
