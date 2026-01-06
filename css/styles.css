@@ -661,7 +661,10 @@ i.e 1rem = 1em = 16px (Default)
   }
 }
 
-/* 1200px == 75em */
+/*
+BELOW 1200px (Small Laptops)
+1200px == 75em 
+*/
 @media screen and (max-width: 75em) {
   html {
     font-size: 56.25%;
@@ -813,5 +816,44 @@ BELOW 944px (Tablets)
   .main-nav-link:link,
   .main-nav-link:visited {
     font-size: 3rem;
+  }
+}
+
+/* 
+BELOW 704px (Smaller Tablets)
+700px == 43.75em (approximately 44em) 
+*/
+@media screen and (max-width: 44em) {
+  .grid--3-cols,
+  .grid--4-cols {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .heading-secondary {
+    margin-bottom: 4.8rem;
+  }
+
+  .diets {
+    grid-column: 1 / -1;
+    justify-self: center;
+  }
+
+  .pricing-plan {
+    width: 100%;
+  }
+
+  .grid--footer {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  .nav-col {
+    grid-row: 1;
+    grid-column: span 2;
+    margin-bottom: 3.2rem;
+  }
+
+  .logo-col,
+  .address-col {
+    grid-column: span 3;
   }
 }
